@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.Net & Flutter**
 
-- 📫 How to reach me **halilbalik2101@gmail.com**
+- 📫 How to reach me **https://halilbalik.github.io/halilbalik.io/**
 
 </p>
 
