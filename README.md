@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core & .NET Framework**
 
-- 💬 Ask me about **.Net & Flutter**
+- 💬 Ask me about **.Net | Flutter | JS **
 
 - 📫 How to reach me **https://halilbalik.github.io/cv/**
 
