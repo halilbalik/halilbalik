@@ -8,4 +8,7 @@
 - 👨‍🎓 Computer Engineer Student
 - 🔭 interested in backend, devops
 
-<h3 align="left">halilbalik.github.io/cv</h3>
+<h3 align="left">🔗 Links</h3>
+<p align="left">
+    📄 <a href="https://halilbalik.github.io/cv"><strong>CV & Portfolio</strong></a>
+</p>
