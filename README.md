@@ -11,5 +11,5 @@ With experience in software development, I have worked on web and mobile applica
 
 <h3>Links</h3>
 
-<a href="https://halilbalik.github.io/cv"><strong>CV & Portfolio</strong></a> ·
+<a href="https://halilbalik.github.io"><strong>CV & Portfolio</strong></a> ·
 <a href="mailto:halilbalik2101@gmail.com"><strong>Email</strong></a>
