@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-<h3>About Me</h3>
 
 I'm a Computer Engineering graduate currently working as an **RF Optimization Specialist at Türk Telekom**, where I continue to apply and strengthen my engineering and technical background in the telecommunications industry.
 
